@@ -74,13 +74,13 @@
     },
     {
       "id": "parasite-child",
-      "title": "寄生之子",
-      "author": "群星观测",
+      "title": "天贸",
+      "author": "notjunar",
       "cover": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5",
-      "description": "一部充满悬疑与惊悚的小说，展示了成长与宿命的交织。",
+      "description": "测试",
       "category": "wuxia",
       "views": 2750,
-      "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/parasite-child/chapters.json"
+      "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/jn/chapters.json"
     }
   ]
 }
