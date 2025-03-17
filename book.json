@@ -1,4 +1,3 @@
-
 {
   "categories": [
     {
@@ -10,6 +9,26 @@
       "id": "fantasy",
       "name": "玄幻",
       "description": "心潮澎湃，无限幻想，迎风挥击千层浪，少年不败热血！"
+    },
+    {
+      "id": "wuxia",
+      "name": "武侠",
+      "description": "传承中华武学，展现侠义精神"
+    },
+    {
+      "id": "xianxia",
+      "name": "仙侠",
+      "description": "修仙问道，超脱凡尘，追寻永生之路"
+    },
+    {
+      "id": "urban",
+      "name": "都市",
+      "description": "现代都市生活，展现繁华与人性"
+    },
+    {
+      "id": "history",
+      "name": "历史",
+      "description": "穿越时空，重现历史风云"
     }
   ],
   "books": [
@@ -22,6 +41,46 @@
       "category": "science-fiction",
       "views": 1500,
       "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapters.json"
+    },
+    {
+      "id": "conquer-otherworld",
+      "title": "征服异界从游戏开始",
+      "author": "爱吃辣鸡粉",
+      "cover": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5",
+      "description": "将异界包装成游戏，吸引玩家进入，实际上让玩家为自己打工的全新体验。",
+      "category": "fantasy",
+      "views": 3200,
+      "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/conquer-otherworld/chapters.json"
+    },
+    {
+      "id": "dao-gui-yi-xian",
+      "title": "道诡异仙",
+      "author": "狐尾的笔",
+      "cover": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5",
+      "description": "一部被评为网文青春榜的热门仙侠作品，展现了奇幻与仙侠的完美结合。",
+      "category": "xianxia",
+      "views": 4800,
+      "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/dao-gui-yi-xian/chapters.json"
+    },
+    {
+      "id": "i-thought-i-was-the-protagonist",
+      "title": "我本以为我是女主角",
+      "author": "喵太郎",
+      "cover": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5",
+      "description": "打破传统设定，讲述一个意外成为女主角的搞笑故事。",
+      "category": "urban",
+      "views": 2100,
+      "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/i-thought-i-was-the-protagonist/chapters.json"
+    },
+    {
+      "id": "parasite-child",
+      "title": "寄生之子",
+      "author": "群星观测",
+      "cover": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5",
+      "description": "一部充满悬疑与惊悚的小说，展示了成长与宿命的交织。",
+      "category": "wuxia",
+      "views": 2750,
+      "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/parasite-child/chapters.json"
     }
   ]
 }
