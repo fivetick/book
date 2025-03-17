@@ -1,1 +1,27 @@
 
+{
+  "categories": [
+    {
+      "id": "science-fiction",
+      "name": "科幻",
+      "description": "探索未来与科技的奇幻世界"
+    },
+    {
+      "id": "fantasy",
+      "name": "玄幻",
+      "description": "充满魔法与神秘的东方幻想"
+    }
+  ],
+  "books": [
+    {
+      "id": "star-traveler",
+      "title": "星际旅人",
+      "author": "紫星",
+      "cover": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5",
+      "description": "一个关于星际探索与人性的故事",
+      "category": "science-fiction",
+      "views": 1500,
+      "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapters.json"
+    }
+  ]
+}
