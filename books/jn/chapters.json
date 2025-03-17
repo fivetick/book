@@ -1,0 +1,110 @@
+{
+  "bookId": "star-traveler",
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title": "第一章 斗罗大陆",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-1.md"
+    },
+    {
+      "id": "chapter-2",
+      "title": "第二章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-2.md"
+    },
+    {
+      "id": "chapter-3",
+      "title": "第3章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-3.md"
+    },
+    {
+      "id": "chapter-4",
+      "title": "第4章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-4.md"
+    },
+    {
+      "id": "chapter-5",
+      "title": "第5章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-5.md"
+    },
+    {
+      "id": "chapter-6",
+      "title": "第6章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-6.md"
+    },
+    {
+      "id": "chapter-7",
+      "title": "第7章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-7.md"
+    },
+    {
+      "id": "chapter-8",
+      "title": "第8章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-8.md"
+    },
+    {
+      "id": "chapter-9",
+      "title": "第9章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-9.md"
+    },
+    {
+      "id": "chapter-10",
+      "title": "第10章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-10.md"
+    },
+    {
+      "id": "chapter-11",
+      "title": "第11章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-11.md"
+    },
+    {
+      "id": "chapter-12",
+      "title": "第12章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-12.md"
+    },
+    {
+      "id": "chapter-13",
+      "title": "第13章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-13.md"
+    },
+    {
+      "id": "chapter-14",
+      "title": "第14章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-14.md"
+    },
+    {
+      "id": "chapter-15",
+      "title": "第15章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-15.md"
+    },
+    {
+      "id": "chapter-16",
+      "title": "第16章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-16.md"
+    },
+    {
+      "id": "chapter-17",
+      "title": "第17章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-17.md"
+    },
+    {
+      "id": "chapter-18",
+      "title": "第18章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-18.md"
+    },
+    {
+      "id": "chapter-19",
+      "title": "第19章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-19.md"
+    },
+    {
+      "id": "chapter-20",
+      "title": "第20章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-20.md"
+    },
+    {
+      "id": "chapter-21",
+      "title": "第21章",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-21.md"
+    }
+  ]
+}
