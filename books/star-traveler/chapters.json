@@ -3,8 +3,13 @@
   "chapters": [
     {
       "id": "chapter-1",
-      "title": "第一章 斗罗大陆，异界唐三（一）",
+      "title": "第一章 斗罗大陆，异界唐三",
       "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-1.md"
+    },
+    {
+      "id": "chapter-2",
+      "title": "第二章 废武魂与先天满魂力",
+      "contentUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapter-2.md"
     }
   ]
 }
