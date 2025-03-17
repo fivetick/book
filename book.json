@@ -15,10 +15,10 @@
   "books": [
     {
       "id": "star-traveler",
-      "title": "星际旅人",
+      "title": "斗罗大陆",
       "author": "紫星",
       "cover": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5",
-      "description": "一个关于星际探索与人性的故事",
+      "description": "这个作者很懒，啥也没写",
       "category": "science-fiction",
       "views": 1500,
       "chaptersUrl": "https://raw.githubusercontent.com/fivetick/book/refs/heads/main/books/star-traveler/chapters.json"
